@@ -240,3 +240,7 @@ Boundary Testing
 Negative Testing
 UI Automation
 End-to-End Testing
+
+
+Here is my link to my Google Doc:
+https://docs.google.com/document/d/1v4RbaH6MNmDTg64KsOlrGQaSsr4dtHmEfzH9QCtffuM/edit?usp=sharing
